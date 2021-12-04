@@ -1,4 +1,4 @@
-# ListaDeTarefas
+# Lista de Tarefas - Utilizando Bootstrap e Vue.js
 
 ## Project setup
 ```
